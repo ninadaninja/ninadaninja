@@ -9,7 +9,7 @@ I’m a Tokyo-based web developer and Le Wagon graduate with a background in edu
 * 🎮 When I’m not coding, I enjoy video games, coffee, and painting sometimes (on paper!)
 * 📫 Open to frontend and full-stack opportunities in Tokyo or remotely
 
-* ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,postgres,git,github,figma)](https://skillicons.dev)
 
