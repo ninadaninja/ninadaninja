@@ -13,9 +13,16 @@ I’m a Tokyo-based web developer and Le Wagon graduate with a background in edu
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,postgres,git)](https://skillicons.dev)
 
-### 🛠️ Tools
+<h3>🛠️ Tools & Platforms</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+</p>
 
 ### 🌱 Currently Learning
 
