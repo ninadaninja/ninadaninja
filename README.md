@@ -11,7 +11,7 @@ I’m a Tokyo-based web developer and Le Wagon graduate with a background in edu
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,postgres,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,postgres,git)](https://skillicons.dev)
 
 ### 🛠️ Tools
 
