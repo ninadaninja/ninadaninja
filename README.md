@@ -13,6 +13,10 @@ I’m a Tokyo-based web developer and Le Wagon graduate with a background in edu
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css,bootstrap,postgres,git,github,figma)](https://skillicons.dev)
 
+### 🛠️ Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+
 ### 🌱 Currently Learning
 
 [![Currently Learning](https://skillicons.dev/icons?i=react,ts,nodejs)](https://skillicons.dev)
